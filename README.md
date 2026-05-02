@@ -126,8 +126,3 @@ Jika tools ini membantu, Anda dapat mendukung pengembangannya:
 Built with ❤️ by
 👉 https://lebakcoding.com
 
----
-
-## 📄 License
-
-MIT License (atau sesuai kebutuhan kamu)
